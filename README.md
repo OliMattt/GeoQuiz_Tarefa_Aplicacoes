@@ -13,10 +13,10 @@
 
 ### Atualizacoes:
 **Cadastro Automático de Respostas**
-     - UUID da questão.
-     - RESPOSTA_CORRETA (0 ou 1).
-     - RESPOSTA_OFERECIDA (valor: verdadeiro ou falso).
-     - COLOU (se o usuário utilizou algum artifício de cola ou não).
+     - ID da questão.
+     - RESPOSTA_CORRETA
+     - RESPOSTA_OFERECIDA
+     - COLOU (se o usuário utilizou de cola.
 
 **Remoção do Botão 'CADASTRA'**
 
